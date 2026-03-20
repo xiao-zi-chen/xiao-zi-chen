@@ -99,24 +99,24 @@ Defense-focused plugin suite for local network threat analysis.
 <tr>
 <td width="50%">
 
-### `CoLong-Idea-Studio`
+### `HITSZ-DS / CoLong-Idea-Studio`
 
-Idea generation and workflow experimentation with a stronger product feel.
+Dynamic-memory-first collaborative AI framework for long-form story generation, chapter planning, and coherent narrative writing.
 
-`Python` `Creative Tools` `Experimentation`
+`Python` `AI Writing` `Story Generation`
 
 [Repository](https://github.com/HITSZ-DS/CoLong-Idea-Studio)
 
 </td>
 <td width="50%">
 
-### `xiao-zi-chen.github.io`
+### `HITSZ-DS / Novelwrite-Claw`
 
-Next-stage personal site for a custom landing page beyond GitHub's native profile layout.
+A claw-native workspace for long-form AI writing with a local web portal, visible runtime trace, editable memory, and chapter checkpoints.
 
-`HTML` `CSS` `JavaScript`
+`Python` `AI Writing` `Workspace`
 
-`In build`
+[Repository](https://github.com/HITSZ-DS/Novelwrite-Claw)
 
 </td>
 </tr>
